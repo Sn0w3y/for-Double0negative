@@ -15,7 +15,7 @@ messages:
     playersremaining: '&2Es sind &e{$activeplayers} &2übrig!'
     playerwin: '&e{$player} &3hat&e {$victim} &3umgebracht, und hat in &3arena {$arena} gewonnen'
     disablegame: '&cSpiel deaktiviert!'
-    spectate: '&aDu beobachtest nun! Benutze /sg leave um zur Lobby zurue ckzukehren'
+    spectate: '&aDu beobachtest nun! Benutze /sg leave um zur Lobby zurueckzukehren'
     graceperiodend: '&5Ihr seid nun verwundbar!'
     restockchest: '&5Kisten wurden wieder aufgefuellt!'
     playerjoinqueue: '&aZur Warteschlange hinzugefuegt. Du bist Nr. {$queuesize} in der Schlange'
