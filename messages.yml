@@ -9,10 +9,10 @@ messages:
   game:
     playerjoingame: '&a{$player} hat das Spiel betreten! {$activeplayers}/{$maxplayers}'
     playerleavegame: '&b{$player} hat die Arena verlassen!'
-    playervote: '&b{$player} hat für einen Spielbeginn gestimmt!'
+    playervote: '&b{$player} hat fuer einen Spielbeginn gestimmt!'
     countdown: '&6Spiel startet in {$t}'
     goodluck: '&6Viel Glueck!'
-    playersremaining: '&2Es sind &e{$activeplayers} &2übrig!'
+    playersremaining: '&2Es sind &e{$activeplayers} &2uebrig!'
     playerwin: '&e{$player} &3hat&e {$victim} &3umgebracht, und hat in &3arena {$arena} gewonnen'
     disablegame: '&cSpiel deaktiviert!'
     spectate: '&aDu beobachtest nun! Benutze /sg leave um zur Lobby zurueckzukehren'
